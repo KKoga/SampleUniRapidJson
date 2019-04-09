@@ -1,6 +1,7 @@
 ### SampleUniRapidJson
 
-  This sample uses UniRapidJson repeatedly. The script file is Assets/JsonSample.cs.
+  * This sample uses UniRapidJson([https://github.com/KKoga/UniRapidJson](https://github.com/KKoga/UniRapidJson)).
+  * The script file is Assets/JsonSample.cs.
 
 ### How To Update UniRapidJson
 
