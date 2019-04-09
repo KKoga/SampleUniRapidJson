@@ -3,6 +3,9 @@
   * This sample uses UniRapidJson([https://github.com/KKoga/UniRapidJson](https://github.com/KKoga/UniRapidJson)).
   * The script file is Assets/JsonSample.cs.
 
+### Why and How for UniRapidJson
+  * https://github.com/KKoga/UniRapidJson/wiki
+
 ### How To Update UniRapidJson
 
   * Download UniRapidJson and build for target platforms.
